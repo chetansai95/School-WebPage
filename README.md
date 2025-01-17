@@ -23,7 +23,7 @@ The **School Webpage** project is a responsive and user-friendly static website 
 - Utilized **Bootstrap** for quick and efficient styling and layout creation.
 - Focused on creating a clean, visually engaging, and accessible user interface.
 
-##Future Enhancements
+## Future Enhancements
 - Add a dynamic backend for user authentication and content management.
 - Integrate a calendar for event scheduling.
 - Enable multi-language support for broader accessibility.
