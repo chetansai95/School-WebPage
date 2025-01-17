@@ -23,11 +23,6 @@ The **School Webpage** project is a responsive and user-friendly static website 
 - Utilized **Bootstrap** for quick and efficient styling and layout creation.
 - Focused on creating a clean, visually engaging, and accessible user interface.
 
-## How to Run
-- Clone the repository: git clone https://github.com/yourusername/school-webpage.git
-- Open the project folder in your IDE (e.g., Visual Studio Code).
-- Launch the index.html file in a browser to view the website.
-
 ##Future Enhancements
 - Add a dynamic backend for user authentication and content management.
 - Integrate a calendar for event scheduling.
