@@ -27,3 +27,8 @@ The **School Webpage** project is a responsive and user-friendly static website 
 - Add a dynamic backend for user authentication and content management.
 - Integrate a calendar for event scheduling.
 - Enable multi-language support for broader accessibility.
+
+  # NOTE:
+- ## Videos folder wass not uploaded because it is 45mb size. Github doen't allow the folder because size of the folder is too big even if I compress the folder.
+- ## You will find my full code at my gdrive. 
+- ## My gdrive link: https://drive.google.com/file/d/1ERgEfirsCAg5Y0wUYEJSa0RkFKAN_kR3/view?usp=sharing
